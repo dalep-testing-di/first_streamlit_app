@@ -55,7 +55,7 @@ streamlit.write('The user entered ', '"' + fruit_choice + '"')
 #streamlit.dataframe(fruityvice_normalized)
 
 #stop processing here for testing
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 streamlit.header("The fruit load list contains:")
